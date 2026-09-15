@@ -174,13 +174,12 @@ Singapore and Taiwan.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cristianaruperes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img src="https://img.shields.io/github/followers/cristianaruperes?style=for-the-badge&logo=github&color=2F81F7&labelColor=1F2937" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/cristianaruperes?style=for-the-badge&logo=github&color=FFCA28&labelColor=1F2937" alt="Total stars" />
+  <img src="https://img.shields.io/badge/Repositories-8-2F81F7?style=for-the-badge&logo=github&labelColor=1F2937" alt="Repositories" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/cristianaruperes?style=for-the-badge&logo=github&color=2F81F7&labelColor=1F2937" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/cristianaruperes?style=for-the-badge&logo=github&color=FFCA28&labelColor=1F2937" alt="Stars" />
-</p>
+<p align="center"><i>The snake below eats my contribution graph — it regenerates automatically twice a day.</i></p>
 
 <!-- Animated contribution snake -->
 <p align="center">
