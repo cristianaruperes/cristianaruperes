@@ -92,44 +92,62 @@ Singapore and Taiwan.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/cristianaruperes/Lung-Nodule-Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianaruperes&repo=Lung-Nodule-Analysis&theme=tokyonight&hide_border=true" alt="Lung Nodule Analysis" />
-      </a>
-      <p><b>Deep learning for lung nodule segmentation and measurement in CT images.</b> Master's thesis research, published with the ACM.</p>
+      <h3><a href="https://github.com/cristianaruperes/Lung-Nodule-Analysis">🫁 Lung Nodule Analysis</a></h3>
+      <p>Deep learning for lung nodule <b>segmentation and measurement</b> in CT images. Master's thesis research, published with the ACM.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/cristianaruperes/LINE-Chatbot-YZU-University">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianaruperes&repo=LINE-Chatbot-YZU-University&theme=tokyonight&hide_border=true" alt="LINE Chatbot YZU" />
-      </a>
-      <p><b>Conversational assistant for university information</b> — programs, campus facilities and the admission process.</p>
+      <h3><a href="https://github.com/cristianaruperes/LINE-Chatbot-YZU-University">🎓 LINE Chatbot — YZU University</a></h3>
+      <p>Conversational assistant answering questions about <b>university programs</b>, campus facilities and the admission process.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/LINE%20API-00C300?style=flat-square&logo=line&logoColor=white" alt="LINE API" />
+        <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square" alt="NLP" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/cristianaruperes/LINE-Chatbot-Bali-Tourism">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianaruperes&repo=LINE-Chatbot-Bali-Tourism&theme=tokyonight&hide_border=true" alt="LINE Chatbot Bali" />
-      </a>
+      <h3><a href="https://github.com/cristianaruperes/LINE-Chatbot-Bali-Tourism">🌴 LINE Chatbot — Bali Tourism</a></h3>
       <p><b>Tourism chatbot</b> helping tourists and locals navigate and explore the city with fast, accurate answers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/LINE%20API-00C300?style=flat-square&logo=line&logoColor=white" alt="LINE API" />
+        <img src="https://img.shields.io/github/stars/cristianaruperes/LINE-Chatbot-Bali-Tourism?style=flat-square&color=FFCA28" alt="Stars" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/cristianaruperes/School-Management-System-Laravel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianaruperes&repo=School-Management-System-Laravel&theme=tokyonight&hide_border=true" alt="School Management System" />
-      </a>
+      <h3><a href="https://github.com/cristianaruperes/School-Management-System-Laravel">🏫 School Management System</a></h3>
       <p><b>Information system for schools</b> handling student and academic records. Laravel backend, Bootstrap frontend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/cristianaruperes/clinic-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianaruperes&repo=clinic-management-system&theme=tokyonight&hide_border=true" alt="Clinic Management System" />
-      </a>
+      <h3><a href="https://github.com/cristianaruperes/clinic-management-system">🏥 Clinic Management System</a></h3>
       <p><b>Information system for a general clinic</b> covering patient records and visits. Built with Laravel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/cristianaruperes/cristianaruperes.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianaruperes&repo=cristianaruperes.github.io&theme=tokyonight&hide_border=true" alt="Portfolio" />
-      </a>
-      <p><b>Personal portfolio site</b> — React 19, TypeScript and Tailwind, deployed to GitHub Pages.</p>
+      <h3><a href="https://cristianaruperes.github.io/">💼 Personal Portfolio</a></h3>
+      <p>My <b>portfolio site</b> — React 19, TypeScript and Tailwind, deployed to GitHub Pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
     </td>
   </tr>
 </table>
@@ -156,16 +174,12 @@ Singapore and Taiwan.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cristianaruperes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianaruperes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=cristianaruperes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cristianaruperes&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cristianaruperes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://img.shields.io/github/followers/cristianaruperes?style=for-the-badge&logo=github&color=2F81F7&labelColor=1F2937" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/cristianaruperes?style=for-the-badge&logo=github&color=FFCA28&labelColor=1F2937" alt="Stars" />
 </p>
 
 <!-- Animated contribution snake -->
