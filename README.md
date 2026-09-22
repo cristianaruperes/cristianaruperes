@@ -6,7 +6,7 @@
 <!-- Animated typing subtitle -->
 <p align="center">
   <a href="https://cristianaruperes.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=IT+Specialist+%40+HO+YU+Textile;AI+%26+Machine+Learning+Practitioner;Full-Stack+Developer+%7C+React+%C2%B7+Laravel+%C2%B7+.NET;MSc+Information+Management%2C+Yuan-Ze+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=IT+Specialist+%40+HO+YU+Textile;AI+%26+Machine+Learning+Practitioner;Full-Stack+Developer+%7C+React+%C2%B7+Laravel+%C2%B7+.NET;MS+Information+Management%2C+Yuan-Ze+University" alt="Typing SVG" />
   </a>
 </p>
 
