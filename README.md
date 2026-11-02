@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://cristianaruperes.github.io/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/cristian-aruperes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:cristianaruperes@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:cristianaruperes12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=cristianaruperes&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -71,7 +71,6 @@ Singapore and Taiwan.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 **Data & Infrastructure**
@@ -158,7 +157,7 @@ Singapore and Taiwan.
 
 | Paper | Venue | Year |
 | :--- | :--- | :---: |
-| **Lung Nodule Analysis in CT Images: Deep Learning for Segmentation and Measurement** | Association for Computing Machinery (ACM), New York | 2024 |
+| **Lung Nodule Analysis in CT Images: Deep Learning for Segmentation and Measurement** | 8th International Conference on Medical and Health Informatics (ICMHI), Japan · ACM | 2024 |
 | **The Development of Web Portal for Higher Education in North Sulawesi** | Corisindo | 2021 |
 
 ---
